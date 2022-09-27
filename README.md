@@ -9,7 +9,7 @@ If you use any of the materials in this repository, please cite the paper. If yo
 This repository contains the following folders:
 
 
-- Reduced_spectra_SDST:
+- Reduced_spectra:
   - CCD 1-4
 
 The final reduced 1-dimension spectra of all 877 targets of SDST. The combined spectrum of each target was stored as four FITS files (under CCD 1-4) corresponding to four HERMES bands (blue, green, red and infrared). Each FITS file includes the relative flux and the corresponding uncertainty array. Read the FITS header for more information.
