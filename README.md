@@ -1,4 +1,4 @@
-# SDST_final_reduced_data
+# HERMES_reduced_data
 
 Final reduced AAT/HERMES spectra of the Survey for Distant Solar Twins (SDST) associated with Liu et al. (2022, MNRAS, accepted).
 
